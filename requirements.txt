@@ -1,7 +1,10 @@
 fastapi
 uvicorn
+gunicorn
 sqlalchemy
 pymysql
+alembic
+python-dotenv
 python-jose
 passlib[bcrypt]
 python-multipart
